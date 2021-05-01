@@ -1,0 +1,19 @@
+Welcome to Battle_Ships.py V 1.0
+
+This small terminal game is based on the board version, with a few alterations.
+
+The rules are simple:
+The first player who destroys the ships of his opponent wins.
+
+1. You start by placing your names.
+2. You proceed, then, by placing your ships on the your grid one player at a time.
+3. Then you take turns shooting at each others grid.
+   * Each player has one grid and at this stage of the game you will be
+     viewing your opponent's grid.(without the ships, of course)
+
+   * If you hit a ship a R, for red, wil appear on the position which you fired.
+     In case you hit 'sea', a W for white will appear
+
+<<<<  GOOD LUCK !  >>>>
+
+

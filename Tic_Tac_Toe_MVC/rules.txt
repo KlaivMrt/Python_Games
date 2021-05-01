@@ -1,0 +1,17 @@
+The  players should type their names.
+
+First player is the one that types
+his/her name first.
+
+X is assigned to the first player and moves first.
+
+A symbol (O/X) may be placed only in an empty space.
+
+A player wins by being the first to connect
+a line of friendly pieces from one side or corner of the board to the other.
+
+The game ends when either one player wins or it is
+no longer possible for a player to win (in which case the result is a draw)
+
+
+Enjoy!!!
